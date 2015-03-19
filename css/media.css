@@ -1,0 +1,1 @@
+body {  font-size: 2vmin;}@media only screen and (max-width: 799px) {  body {    font-size: 3vmin;  }  p {    font-size: 2.5vmax;  }  aside {    display: none !important;  }}

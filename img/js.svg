@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg">  <text x="0" y="0" style="fill: rgba(200, 200, 255, 0.045); font-family: monospace; font-size: 48px; transform: rotateZ(-30deg) translateX(-280px) translateY(150px)">    <tspan x="0" dy="1.2em" xml:space="preserve">$('img[src*="refresh.gif"]').parents('a').click(function(event) {</tspan>    <tspan x="0" dy="1.2em" xml:space="preserve">  if(event.ctrlKey) return;                                      </tspan>    <tspan x="0" dy="1.2em" xml:space="preserve">  event.preventDefault();                                        </tspan>    <tspan x="0" dy="1.2em" xml:space="preserve">  refresh(safeURL);                                              </tspan>    <tspan x="0" dy="1.2em" xml:space="preserve">});                                                              </tspan>    <tspan x="0" dy="1.2em" xml:space="preserve">                                                                 </tspan>    <tspan x="0" dy="1.2em" xml:space="preserve">$(document).bind("keydown", function(event) {                    </tspan>    <tspan x="0" dy="1.2em" xml:space="preserve">  if(event.keyCode != 116) return;                               </tspan>    <tspan x="0" dy="1.2em" xml:space="preserve">  event.preventDefault();                                        </tspan>    <tspan x="0" dy="1.2em" xml:space="preserve">  refresh(safeURL);                                              </tspan>    <tspan x="0" dy="1.2em" xml:space="preserve">});                                                              </tspan>  </text></svg>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="0" style="fill: rgba(200, 200, 255, 0.045); font-family: monospace; font-size: 48px; transform: rotateZ(-30deg) translateX(-280px) translateY(150px)">
+    <tspan x="0" dy="1.2em" xml:space="preserve">$('img[src*="refresh.gif"]').parents('a').click(function(event) {</tspan>
+    <tspan x="0" dy="1.2em" xml:space="preserve">  if(event.ctrlKey) return;                                      </tspan>
+    <tspan x="0" dy="1.2em" xml:space="preserve">  event.preventDefault();                                        </tspan>
+    <tspan x="0" dy="1.2em" xml:space="preserve">  refresh(safeURL);                                              </tspan>
+    <tspan x="0" dy="1.2em" xml:space="preserve">});                                                              </tspan>
+    <tspan x="0" dy="1.2em" xml:space="preserve">                                                                 </tspan>
+    <tspan x="0" dy="1.2em" xml:space="preserve">$(document).bind("keydown", function(event) {                    </tspan>
+    <tspan x="0" dy="1.2em" xml:space="preserve">  if(event.keyCode != 116) return;                               </tspan>
+    <tspan x="0" dy="1.2em" xml:space="preserve">  event.preventDefault();                                        </tspan>
+    <tspan x="0" dy="1.2em" xml:space="preserve">  refresh(safeURL);                                              </tspan>
+    <tspan x="0" dy="1.2em" xml:space="preserve">});                                                              </tspan>
+  </text>
+</svg>
