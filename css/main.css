@@ -3,12 +3,14 @@ html, body {  height: 100%;  width: 100%;  font-family: 'Open Sans', sans-ser
   table-layout: fixed;  height: 100%;  width: 100%;
   overflow: hidden;  color: #fff;  background-color: #444;
   position: relative;}section > div, section > aside {
+  width: 50%;
   display: table-cell;
   padding: 3em 2em;
   vertical-align: middle;}
 
 section > aside {
-  text-align: left;
+  text-align: right;
+  background-color: rgba(255,255,255,0.1);
 }
 
 section > div:not(:last-child) {
