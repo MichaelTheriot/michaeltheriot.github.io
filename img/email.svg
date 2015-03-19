@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 264 100">  <defs>
     <path id="MyPath"
           d="M 000 050 
-             C 135 000 135 100 264 050" />    <style>      text {        fill: #fff;        font-family: monospace, 'courier';
+             C 000 050 264 050 264 050" />    <style>      text {        fill: #fff;        font-family: monospace, 'courier';
         font-size: 2;        font-weight: bold;      }    </style>  </defs>
   <use xlink:href="#MyPath" fill="none" stroke="none"/>  <text xml:space="preserve"><textPath xlink:href="#MyPath">&lt;                             &gt;</textPath></text>  <text xml:space="preserve"><textPath xlink:href="#MyPath">    hael                       </textPath></text>  <text xml:space="preserve"><textPath xlink:href="#MyPath">                          .com </textPath></text>  <text xml:space="preserve"><textPath xlink:href="#MyPath">                riot           </textPath></text>  <text xml:space="preserve"><textPath xlink:href="#MyPath">                    @          </textPath></text>  <text xml:space="preserve"><textPath xlink:href="#MyPath">                     gma       </textPath></text>  <text xml:space="preserve"><textPath xlink:href="#MyPath">        .lee                   </textPath></text>  <text xml:space="preserve"><textPath xlink:href="#MyPath"> mic                    il     </textPath></text>  <text xml:space="preserve"><textPath xlink:href="#MyPath">            .the               </textPath></text></svg>
