@@ -11,7 +11,6 @@ html, body {  height: 100%;  width: 100%;  font-family: 'Open Sans', sans-ser
 
 section > aside {
   text-align: right;
-  background-color: rgba(255,255,255,0.1);
 }
 
 section > div:not(:last-child) {
