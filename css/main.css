@@ -6,7 +6,8 @@ html, body {  height: 100%;  width: 100%;  font-family: 'Open Sans', sans-ser
   width: 50%;
   display: table-cell;
   padding: 3em 2em;
-  vertical-align: middle;}
+  vertical-align: middle;
+  box-sizing: border-box;}
 
 section > aside {
   text-align: right;
