@@ -13,7 +13,10 @@
                 transform: rotateZ(-3deg) translateY(-12px) translateX(-18px);
       }
     </style>
-  </defs>  <g>
+    <clipPath id="box">
+      <rect x="0" y="0" width="500" height="480" rx="8"/>
+    </clipPath>
+  </defs>  <g clip-path="url(#box)">
     <rect x="0" y="0" width="500" height="480" style="background: #000"></rect>    <text x="0" y="0" xml:space="preserve">      <tspan x="0" dy="1.2em">var fs = require('fs');<tspan class="space">....................................</tspan></tspan>
       <tspan x="0" dy="1.2em"><tspan class="space">...........................................................</tspan></tspan>
       <tspan x="0" dy="1.2em">function fileRead(file, callback, toArray) {<tspan class="space">...............</tspan></tspan>
