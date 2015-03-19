@@ -4,8 +4,16 @@
       .space {
         fill: transparent;
       }
+      text {
+        fill: rgb(0, 255, 0);
+        font-family: monospace;
+        font-size: 16px;
+        -webkit-transform: rotateZ(-3deg) translateY(-12px) translateX(-18px);
+            -ms-transform: rotateZ(-3deg) translateY(-12px) translateX(-18px);
+                transform: rotateZ(-3deg) translateY(-12px) translateX(-18px);
+      }
     </style>
-  </defs>  <g>    <text x="0" y="0" style="fill: rgb(0, 255, 0); font-family: monospace; font-size: 16px; transform: rotateZ(-3deg) translateY(-12px) translateX(-18px)" xml:space="preserve">      <tspan x="0" dy="1.2em">var fs = require('fs');<tspan class="space">....................................</tspan></tspan>
+  </defs>  <g>    <text x="0" y="0" xml:space="preserve">      <tspan x="0" dy="1.2em">var fs = require('fs');<tspan class="space">....................................</tspan></tspan>
       <tspan x="0" dy="1.2em"><tspan class="space">...........................................................</tspan></tspan>
       <tspan x="0" dy="1.2em">function fileRead(file, callback, toArray) {<tspan class="space">...............</tspan></tspan>
       <tspan x="0" dy="1.2em"><tspan class="space">..</tspan>fs.readFile(file, 'utf8', function(err, data) {<tspan class="space">..........</tspan></tspan>

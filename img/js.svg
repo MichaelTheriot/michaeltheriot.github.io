@@ -1,5 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="0" style="fill: rgba(200, 200, 255, 0.045); font-family: monospace; font-size: 48px; transform: rotateZ(-30deg) translateX(-280px) translateY(150px)">
+  <defs>
+    <style>
+      text {
+        fill: rgba(200, 200, 255, 0.045);
+        font-family: monospace;
+        font-size: 48px;
+        -webkit-transform: rotateZ(-30deg) translateX(-280px) translateY(150px);
+            -ms-transform: rotateZ(-30deg) translateX(-280px) translateY(150px);
+                transform: rotateZ(-30deg) translateX(-280px) translateY(150px);
+      }
+    </style>
+  </defs>
+  <text x="0" y="0" xml:space="preserve">
     <tspan x="0" dy="1.2em" xml:space="preserve">$('img[src*="refresh.gif"]').parents('a').click(function(event) {</tspan>
     <tspan x="0" dy="1.2em" xml:space="preserve">  if(event.ctrlKey) return;                                      </tspan>
     <tspan x="0" dy="1.2em" xml:space="preserve">  event.preventDefault();                                        </tspan>
