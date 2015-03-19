@@ -3,14 +3,14 @@
           d="M 000 050 
              C 000 050 273 050 273 050" />    <style>      text {        fill: #000;        font-family: monospace, 'courier';
         font-size: 2;        font-weight: bold;      }    </style>  </defs>
-  <use xlink:href="#MyPath" fill="none" stroke="none"/>  <text xml:space="preserve">
-    <textPath xlink:href="#MyPath">&lt;                             &gt;</textPath>
-    <textPath xlink:href="#MyPath">    hael                       </textPath>
-    <textPath xlink:href="#MyPath">                          .com </textPath>
-    <textPath xlink:href="#MyPath">                riot           </textPath>
-    <textPath xlink:href="#MyPath">                    @          </textPath>
-    <textPath xlink:href="#MyPath">                     gma       </textPath>
-    <textPath xlink:href="#MyPath">        .lee                   </textPath>
-    <textPath xlink:href="#MyPath"> mic                    il     </textPath>
-    <textPath xlink:href="#MyPath">            .the               </textPath>
+  <use xlink:href="#MyPath" fill="none" stroke="none"/>  <text>
+    <textPath xlink:href="#MyPath">&lt;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&gt;</textPath>
+    <textPath xlink:href="#MyPath">&#160;&#160;&#160;&#160;hael&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</textPath>
+    <textPath xlink:href="#MyPath">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.com&#160;</textPath>
+    <textPath xlink:href="#MyPath">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;riot&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</textPath>
+    <textPath xlink:href="#MyPath">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</textPath>
+    <textPath xlink:href="#MyPath">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gma&#160;&#160;&#160;&#160;&#160;&#160;&#160;</textPath>
+    <textPath xlink:href="#MyPath">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.lee&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</textPath>
+    <textPath xlink:href="#MyPath">&#160;mic&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;il&#160;&#160;&#160;&#160;&#160;</textPath>
+    <textPath xlink:href="#MyPath">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.the&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</textPath>
   </text></svg>
