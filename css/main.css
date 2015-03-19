@@ -8,7 +8,7 @@ html, body {  height: 100%;  width: 100%;  font-family: 'Open Sans', sans-ser
   vertical-align: middle;}
 
 section > aside {
-  text-align: right;
+  text-align: left;
 }
 
 section > div:not(:last-child) {
