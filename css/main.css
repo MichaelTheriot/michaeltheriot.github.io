@@ -5,7 +5,7 @@ html, body {  height: 100%;  width: 100%;  font-family: 'Open Sans', sans-ser
   position: relative;}section > div, section > aside {
   width: 50%;
   display: table-cell;
-  padding: 4rem 3rem;
+  padding: 4rem 3rem;  padding: 8vh 3vw;
   vertical-align: middle;
   box-sizing: border-box;}
 
@@ -15,14 +15,9 @@ section > aside {
 
 section > div:not(:last-child) {
   width: 50%;
-}section > div > *:first-child {  margin-top: 0;}.center {  text-align: center;}h1 {  font-family: 'Ubuntu', sans-serif;}#front {  background-color: #06e;}#skills {  background-color: #242;  background-image: url(../img/sql.svg);  background-repeat: no-repeat;}#web {  background-color: #066;  background-image: url(../img/js.svg);  background-repeat: no-repeat;}#game {  background-color: #1a1a1a;}#contact {  background-color: #a00;}#front h1 {  text-shadow: 2px 2px 0px #338;}.present {
+}section > div > *:first-child {  margin-top: 0;}.center {  text-align: center;}h1 {  font-family: 'Ubuntu', sans-serif;}#intro {  background-color: #06e;}#skills {  background-color: #242;  background-image: url(../img/sql.svg);  background-repeat: no-repeat;}#web {  background-color: #066;  background-image: url(../img/js.svg);  background-repeat: no-repeat;}#controls {  background-color: #626;}#game {  background-color: #1a1a1a;}#contact {  background-color: #a00;}#intro h1 {  text-shadow: 2px 2px 0px #338;}.present {
   display: inline-block;
-  border-radius: 8px;  box-shadow: 2px 2px 4px #333;}#front {  position: relative;  z-index: 2;  font-size: 1.2em;}#nav {  position: absolute;  left: 0;  bottom: 0;  width: 100%;  z-index: 4;  text-align: center;  text-transform: lowercase;  font-family: 'Ubuntu';  font-size: 0.77em;  display: table;  height: 4rem;}#nav ul {  display: table-cell;  vertical-align: middle;  color: #e8e8e8;  list-style-type: none;  overflow: hidden;  padding: 0 1em;
+  border-radius: 8px;  box-shadow: 2px 2px 4px #333;}#intro {  position: relative;  z-index: 2;  font-size: 1.2em;}#nav {  position: absolute;  left: 0;  bottom: 0;  width: 100%;  z-index: 4;  text-align: center;  text-transform: lowercase;  font-family: 'Ubuntu';  font-size: 0.77em;  display: table;  height: 4rem;  height: 8vh;}#nav ul {  display: table-cell;  vertical-align: middle;  color: #e8e8e8;  list-style-type: none;  overflow: hidden;  padding: 0 1em;
   margin: 0;}#nav ul li {  display: inline;}#nav ul li a {  display: inline-block;  color: inherit;  text-decoration: none;
   line-height: initial;
-  border-bottom: 1px solid transparent;  padding: 4px 0 3px;}#nav ul li a:hover {  color: #f8f8f8;}#nav ul li:not(:last-child)::after {  content: '\a0|\a0';}
-
-object {
-  display: inline-block;
-  max-height: 100%;
-}
+  border-bottom: 1px solid transparent;  padding: 4px 0 3px;  padding: 1.35vh 0 0.4vh;}#nav ul li a:hover {  color: #f8f8f8;}#nav ul li:not(:last-child)::after {  content: '\a0|\a0';}
