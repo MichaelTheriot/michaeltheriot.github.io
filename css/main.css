@@ -1,4 +1,4 @@
-html, body {  height: 100%;  width: 100%;  font-family: 'Open Sans', sans-serif;}a {  color: #f66;}a:hover {  color: #f99;}main {  height: 100%;  width: 100%;}section {
+html, body {  height: 100%;  width: 100%;  font-family: 'Open Sans', sans-serif;}body {  padding: 0;}a {  color: #f66;}a:hover {  color: #f99;}main {  height: 100%;  width: 100%;}section {
   display: table;
   table-layout: fixed;  height: 100%;  width: 100%;
   overflow: hidden;  color: #fff;  background-color: #444;
