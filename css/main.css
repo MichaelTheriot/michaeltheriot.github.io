@@ -69,7 +69,7 @@ h1 {
 }
 
 #intro {
-  background-color: #06e;
+  background: linear-gradient(343deg, rgba(255,255,255,0.052) 41.85%, rgba(255,255,255,0.08) 42%, transparent 0) #06e;
 }
 
 #code {
